@@ -1,0 +1,16 @@
+.DS_Store
+
+acrilogic_files/application/cache/*
+!acrilogic_files/application/cache/index.html
+!acrilogic_files/application/cache/.htaccess
+
+acrilogic_files/application/logs/*
+!acrilogic_files/application/logs/index.html
+!acrilogic_files/application/logs/.htaccess
+
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
