@@ -1,4 +1,4 @@
-<div class="subheader">The official application of the Prezcon Winter Nationals.</div>
+<div class="subheader">The official application of the Prezcon Winter Nationals</div>
 <div class="badge-container">
   <a target="blank" href="https://play.google.com/store/apps/details?id=com.prezcon.prezcon">
     <img alt="Get it on Google Play" src="/assets/img/en_generic_rgb_wo_45.png" />

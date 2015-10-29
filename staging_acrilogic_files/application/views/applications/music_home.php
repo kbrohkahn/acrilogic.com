@@ -1,6 +1,7 @@
-<div class="subheader">Never be forced to power your screen on again.</div>
+<div class="subheader">Never be forced to power your screen on again</div>
 <div class="badge-container">
-	<a target="blank" class="apple-badge" href="http://appstore.com/acrilogic/musichome">
+
+	<a target="blank" class="apple-badge" href="https://itunes.apple.com/us/developer/kevin-broh-kahn/id1047274120#">
 		<img alt="Find in App Store" src="/assets/img/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
 	</a>
 	<a target="blank" href="https://play.google.com/store/apps/details?id=com.acrilogic.musichome">
@@ -333,7 +334,7 @@
 
 <h2>Purchase full version</h2>
 <div class="badge-container">
-	<a target="blank" class="apple-badge" href="http://appstore.com/acrilogic/musichome">
+	<a target="blank" class="apple-badge" href="https://itunes.apple.com/us/developer/kevin-broh-kahn/id1047274120#">
 		<img alt="Find in App Store" src="/assets/img/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
 	</a>
 	<a target="blank" href="https://play.google.com/store/apps/details?id=com.acrilogic.musichome">
@@ -343,7 +344,7 @@
 
 <h2>Download 2 week trial</h2>
 <div class="badge-container">
-	<a target="blank" class="apple-badge" href="http://appstore.com/acrilogic/musichometrial">
+	<a target="blank" class="apple-badge" href="https://itunes.apple.com/us/developer/kevin-broh-kahn/id1047274120#">
 		<img alt="Find in App Store" src="/assets/img/Download_on_the_App_Store_Badge_US-UK_135x40.svg">
 	</a>
 	<a target="blank" href="https://play.google.com/store/apps/details?id=com.acrilogic.musichometrial">
